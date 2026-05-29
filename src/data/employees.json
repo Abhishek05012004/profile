@@ -1,0 +1,35 @@
+{
+  "companyInfo": {
+    "name": "National Foods",
+    "logo": "/images/logo.png",
+    "headerBanner": "/images/banners/tech-header.png"
+  },
+  "employees": [
+    {
+      "id": "parth-raval",
+      "name": "PARTH RAVAL",
+      "designation": "Brand & Creative Director",
+      "phone": "+91 8849737834",
+      "email": "parthraval99@gmail.com",
+      "profileImage": "/images/profiles/parth-raval.jpeg",
+      "social": {
+        "instagram": "https://www.instagram.com/its_not_arjun?utm_source=qr&igsh=MWVyMHY0eDVxZ3I3",
+        "linkedin": "https://www.linkedin.com/in/parth-raval-8090911aa/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "twitter": "https://x.com/parthraval99"
+      }
+    },
+    {
+      "id": "jane-smith",
+      "name": "Jane Smith",
+      "designation": "Lead Software Engineer",
+      "phone": "+91 87654 32109",
+      "email": "jane.smith@nationalfoods.com",
+      "profileImage": "/images/profiles/jane-smith.jpg",
+      "social": {
+        "instagram": "https://instagram.com/janesmith",
+        "linkedin": "https://linkedin.com/in/janesmith",
+        "twitter": "https://twitter.com/janesmith"
+      }
+    }
+  ]
+}
